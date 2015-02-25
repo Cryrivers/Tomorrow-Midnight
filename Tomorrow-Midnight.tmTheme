@@ -53,7 +53,7 @@
 				<key>name</key>
 				<string>Variable, String Link, Regular Expression, Tag Name</string>
 				<key>scope</key>
-				<string>variable, support.other.variable, string.other.link, string.regexp, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag, tag.open.js, tag.close.js</string>
+				<string>support.other.variable, string.other.link, string.regexp, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag, tag.open.js, tag.close.js</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
@@ -127,7 +127,7 @@
 				<key>name</key>
 				<string>Operator, Misc</string>
 				<key>scope</key>
-				<string>keyword.operator, constant.other.color, keyword.operator.assignment.js, entity.quasi.element.js, meta.tag.mustache.js</string>
+				<string>keyword.operator, constant.other.color, keyword.operator.assignment.js, entity.quasi.element.js, meta.tag.mustache.js, entity.other.attribute-name.js</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
